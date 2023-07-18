@@ -1,0 +1,15 @@
+C:\Users\Aprendiz\source\repos\DesayunoConsoleApp1\DesayunoConsoleApp1\bin\Debug\net6.0\DesayunoConsoleApp1.exe
+C:\Users\Aprendiz\source\repos\DesayunoConsoleApp1\DesayunoConsoleApp1\bin\Debug\net6.0\DesayunoConsoleApp1.deps.json
+C:\Users\Aprendiz\source\repos\DesayunoConsoleApp1\DesayunoConsoleApp1\bin\Debug\net6.0\DesayunoConsoleApp1.runtimeconfig.json
+C:\Users\Aprendiz\source\repos\DesayunoConsoleApp1\DesayunoConsoleApp1\bin\Debug\net6.0\DesayunoConsoleApp1.dll
+C:\Users\Aprendiz\source\repos\DesayunoConsoleApp1\DesayunoConsoleApp1\bin\Debug\net6.0\DesayunoConsoleApp1.pdb
+C:\Users\Aprendiz\source\repos\DesayunoConsoleApp1\DesayunoConsoleApp1\obj\Debug\net6.0\DesayunoConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Aprendiz\source\repos\DesayunoConsoleApp1\DesayunoConsoleApp1\obj\Debug\net6.0\DesayunoConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aprendiz\source\repos\DesayunoConsoleApp1\DesayunoConsoleApp1\obj\Debug\net6.0\DesayunoConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Aprendiz\source\repos\DesayunoConsoleApp1\DesayunoConsoleApp1\obj\Debug\net6.0\DesayunoConsoleApp1.AssemblyInfo.cs
+C:\Users\Aprendiz\source\repos\DesayunoConsoleApp1\DesayunoConsoleApp1\obj\Debug\net6.0\DesayunoConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\source\repos\DesayunoConsoleApp1\DesayunoConsoleApp1\obj\Debug\net6.0\DesayunoConsoleApp1.dll
+C:\Users\Aprendiz\source\repos\DesayunoConsoleApp1\DesayunoConsoleApp1\obj\Debug\net6.0\refint\DesayunoConsoleApp1.dll
+C:\Users\Aprendiz\source\repos\DesayunoConsoleApp1\DesayunoConsoleApp1\obj\Debug\net6.0\DesayunoConsoleApp1.pdb
+C:\Users\Aprendiz\source\repos\DesayunoConsoleApp1\DesayunoConsoleApp1\obj\Debug\net6.0\DesayunoConsoleApp1.genruntimeconfig.cache
+C:\Users\Aprendiz\source\repos\DesayunoConsoleApp1\DesayunoConsoleApp1\obj\Debug\net6.0\ref\DesayunoConsoleApp1.dll
